@@ -3,7 +3,6 @@
 - 🔭 hoje trabalho com front-end e back-end
 - 🌱 Estudando JavaScript, Python e Django
 - 📫 contate-me no email: thiagomoraiscordeiro@outlook.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/ThiagoMoraisAluno">
