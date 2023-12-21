@@ -2,7 +2,7 @@
 
 - 🔭 hoje trabalho com front-end e back-end
 - 🌱 Estudando JavaScript, Python e Django
-- 📫 contate-me no email: thiagomoraiscordeiro@outlook.com
+- 📫 contate-me no email: thiagomoraiscordeiroprofissional@outlook.com
 
 <div align="center">
   <a href="https://github.com/ThiagoMoraisAluno">
