@@ -1,7 +1,7 @@
 ## Olá! eu sou Thiago Morais 👋
 
 - 🔭 hoje trabalho com front-end e back-end
-- 🌱 Estudando JavaScript, Python e Django
+- 🌱 Estudando JavaScript, React, React Native, Sass, Tailwind.
 - 📫 contate-me no email: thiagomoraiscordeiroprofissional@outlook.com
 
 <div align="center">
