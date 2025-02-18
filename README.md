@@ -1,6 +1,6 @@
 ## Olá! eu sou Thiago Morais 👋
 
-- 🔭 hoje trabalho com front-end e back-end
+- 🔭 hoje trabalho como Desenvolvedor .NET(Web/Desktop)
 - 🌱 Estudando JavaScript, React, React Native, Sass, Tailwind.
 - 📫 contate-me no email: thiagomoraiscordeiroprofissional@outlook.com
 
@@ -14,7 +14,7 @@
   <img align="center" alt="TH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="TH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="TH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="TH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
